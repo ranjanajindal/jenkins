@@ -18,16 +18,4 @@
   <build>
     <finalName>JenkinsWar</finalName>
   </build>
-  <distributionmanagement>
-    <repository>
-      <id> Deployment </id>
-      <name> Internal Release </name>
-      <url>http://10.1.23.184:8081/repository/sample </url>
-    </repository>
-    <snapshotrepository>
-      <id> Deployment </id>
-      <name> Internal snapshot Release </name>
-      <url>http://10.1.23.184:8081/repository/sample_snapshot </url>
-       </snapshotrepository>
-    </distributionmanagement>
-</project>
+  </project>
