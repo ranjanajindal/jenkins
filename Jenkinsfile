@@ -8,6 +8,6 @@ pipeline {
     }
   }
   environment {
-    Dvelopmnt = 'Dev'
+    Developmnt = 'Dev'
   }
 }
